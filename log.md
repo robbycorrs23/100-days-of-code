@@ -24,10 +24,18 @@
 
 **Link to work:** BuyChoiceApp, Edabit
 
-### Day 3: November 20, 2021
+### Day 4: November 20, 2021
 
 **Today's Progress**: Wasn't able to code much today but did work on a few challenges
 
 **Thoughts:** I wasn't able to do much today as I was busy with family.
 
 **Link to work:** Edabit, BigDaddyPlumbing
+
+### Day 5: November 21, 2021
+
+**Today's Progress**: Wasn't able to code much today but did a tough Codewars challenge
+
+**Thoughts:** I was very proud of my JS skills today when I complete a 5 Kyu challenge on Codewars. I was able to reach into the tool bag and grab out a piece of the map array method that eludes me at times. I am officially at 6 Kyu rank!
+
+**Link to work:** Codewars
